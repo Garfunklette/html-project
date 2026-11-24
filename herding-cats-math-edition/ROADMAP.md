@@ -146,8 +146,8 @@ formatting.
 - [x] Confirm the project runs locally with `npm run dev`.
 - [x] Install and configure Prettier and `prettier-plugin-svelte`.
 - [x] Add VS Code format-on-save settings.
-- [ ] Add a `.gitignore` and initialize Git.
-- [ ] Set the page title to **Herding Cats: Math Edition**.
+- [x] Add a `.gitignore` and initialize Git.
+- [x] Set the page title to **Herding Cats: Math Edition**.
 - [ ] Create a simple responsive application shell.
 - [ ] Add a README with setup and run instructions.
 
@@ -160,14 +160,14 @@ correctly.
 **Goal:** Correctly generate and explain two-digit subtraction problems
 within 100.
 
-- [ ] Implement problem generation for non-negative answers.
-- [ ] Support subtraction with and without regrouping.
-- [ ] Add a mode that specifically generates regrouping problems.
-- [ ] Track tens and ones separately.
-- [ ] Represent the exchange of one ten for ten ones explicitly.
-- [ ] Calculate and expose each step of a worked solution.
+- [x] Implement problem generation for non-negative answers.
+- [x] Support subtraction with and without regrouping.
+- [x] Add a mode that specifically generates regrouping problems.
+- [x] Track tens and ones separately.
+- [x] Represent the exchange of one ten for ten ones explicitly.
+- [x] Calculate and expose each step of a worked solution.
 - [ ] Add difficulty settings and problem constraints.
-- [ ] Add automated tests for arithmetic, regrouping, and edge cases.
+- [x] Add automated tests for arithmetic, regrouping, and edge cases.
 
 **Initial target skill:** Problems such as `64 − 38 = 26`.
 
