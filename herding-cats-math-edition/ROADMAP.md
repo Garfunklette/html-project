@@ -182,14 +182,14 @@ subtraction without regrouping.
 **Goal:** Teach why regrouping works through an interactive
 tens-and-ones model.
 
-- [ ] Display tens rods and individual ones.
-- [ ] Let the learner exchange one ten for ten ones.
-- [ ] Show the number before and after the exchange.
+- [x] Display tens rods and individual ones.
+- [x] Let the learner exchange one ten for ten ones.
+- [x] Show the number before and after the exchange.
 - [ ] Guide the learner through subtracting ones first, then tens.
-- [ ] Provide optional hints.
-- [ ] Provide a worked-example mode.
-- [ ] Give encouraging, non-punitive feedback.
-- [ ] Make the activity usable with a mouse and keyboard.
+- [x] Provide optional hints.
+- [x] Provide a worked-example mode.
+- [x] Give encouraging, non-punitive feedback.
+- [x] Make the activity usable with a mouse and keyboard.
 
 **Acceptance criteria:** A learner can demonstrate that 64 is equivalent
 to 5 tens and 14 ones, then use that representation to solve `64 − 38`.
